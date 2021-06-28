@@ -1,5 +1,5 @@
-# PowerSuit Modules - Active Power Generation
+# PowerSuit Modules - Power Generation
 
-*Mod Reference: ArmorModules_ActivePower*
+*Mod Reference: ArmorModules_PowerGeneration*
 
 This is a sub-mod of the [**PowerSuit Modules mod**](https://github.com/budak7273/ArmorModules/). For more information on the mod and issue reporting, please check out its Github page instead.
